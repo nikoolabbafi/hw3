@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a69b4c0d4af5aac4d87da81d395ee32f, type: 3}
+  m_Name: Weapon_Level_02_Twin
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponDataSO
+  weaponName: Twin Laser
+  weaponSprite: {fileID: 21300000, guid: b06356444412c8047983e877c2886823, type: 3}
+  projectilePrefab: {fileID: 1751561677945237641, guid: 24d50a3dcb4d6144f87e3c7a6a0543c3, type: 3}
+  damage: 1
+  projectileSpeed: 12
+  fireRate: 4
+  firePattern: 1
+  projectileCount: 2
+  spreadAngleDegrees: 0
+  muzzleOffsets:
+  - {x: -0.25, y: 0}
+  - {x: 0.25, y: 0}

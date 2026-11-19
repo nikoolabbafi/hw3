@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5269a662b876b51419253e5583d57360, type: 3}
+  m_Name: Level_03_Data
+  m_EditorClassIdentifier: Assembly-CSharp::LevelDataSO
+  levelNumber: 3
+  sceneName: Level3
+  backgroundMusic: {fileID: 0}
+  environmentTheme: 2
+  expectedRoundCount: 5
+  rounds:
+  - {fileID: 11400000, guid: 22e26f37b5d681941a0065fd93de2a8a, type: 2}
+  - {fileID: 11400000, guid: 18f79d08de9caea44b2d533815860237, type: 2}
+  - {fileID: 11400000, guid: eb7d644e853cb8a46a3c74729396cff5, type: 2}
+  - {fileID: 11400000, guid: 7d49d7c720e19254fb2ee7872fe451ca, type: 2}
+  - {fileID: 11400000, guid: 4053abe746f2614439d6d0efa85f655e, type: 2}
+  - {fileID: 11400000, guid: 489e140b0fa10e24f9dd9e8f9d7fea1a, type: 2}
+  - {fileID: 11400000, guid: b6527ceb141543f458b9982c7181863b, type: 2}
+  - {fileID: 11400000, guid: 65df498306cd03a4487c5e8b5c822ee3, type: 2}
+  - {fileID: 11400000, guid: bff5d29f59b83ba4d8661f6b05fb9a4e, type: 2}
+  - {fileID: 11400000, guid: e9263aa3e4b0d2b49aee3e36673c9d7b, type: 2}

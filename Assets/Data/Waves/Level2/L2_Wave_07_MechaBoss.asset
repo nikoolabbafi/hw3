@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddca828a746e5e149a8e2cbc73ddeaa6, type: 3}
+  m_Name: L2_Wave_07_MechaBoss
+  m_EditorClassIdentifier: Assembly-CSharp::WaveDataSO
+  waveName: Level 2 - Round 7 - Mecha Chicken Boss
+  waveType: 0
+  enemyPrefab: {fileID: 1003089978648642417, guid: e576c85abbe2b404ea2c25a3d3af5f4e, type: 3}
+  enemyCount: 1
+  enemyMaxHealth: 1
+  moveSpeed: 0.1
+  eggDropInterval: 3
+  eggDropChance: 0
+  formation: 1
+  formationSpacing: 1
+  formationTravel: 0
+  customFormationOffsets: []
+  diveEveryNthChicken: 0
+  diveInterval: 5
+  diveSpeed: 7
+  entryWaypointsViewport:
+  - {x: 0.5, y: 1.1}
+  - {x: 0.5, y: 0.8}
+  asteroidPrefab: {fileID: 1472948895234647240, guid: 8b66e83c976449c4795074bd3a7dad24, type: 3}
+  asteroidCount: 14
+  asteroidHealth: 5
+  asteroidSpawnInterval: 0.55
+  asteroidMoveSpeed: 3.7
+  bossPrefab: {fileID: 3355507787909965600, guid: 41c6050fca8bf7d40a47a409bd8dd8b1, type: 3}
+  bossHealth: 400
+  bossEntrySpeed: 2.4

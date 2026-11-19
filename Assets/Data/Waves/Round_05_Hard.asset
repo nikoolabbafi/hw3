@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddca828a746e5e149a8e2cbc73ddeaa6, type: 3}
+  m_Name: Round_05_Hard
+  m_EditorClassIdentifier: Assembly-CSharp::WaveDataSO
+  waveName: Level 1 - Round 5 - Giant Chicken Boss
+  waveType: 0
+  enemyPrefab: {fileID: 6867858675239693470, guid: ed75f8b286d55b5428fa160df9211aea, type: 3}
+  enemyCount: 1
+  enemyMaxHealth: 8
+  moveSpeed: 0.1
+  eggDropInterval: 2.5
+  eggDropChance: 0
+  formation: 1
+  formationSpacing: 1
+  formationTravel: 0
+  customFormationOffsets: []
+  diveEveryNthChicken: 0
+  diveInterval: 5
+  diveSpeed: 7
+  entryWaypointsViewport:
+  - {x: 0.5, y: 1.1}
+  - {x: 0.5, y: 0.8}
+  asteroidPrefab: {fileID: 0}
+  asteroidCount: 1
+  asteroidHealth: 3
+  asteroidSpawnInterval: 0.8
+  asteroidMoveSpeed: 3
+  bossPrefab: {fileID: 6867858675239693470, guid: ed75f8b286d55b5428fa160df9211aea, type: 3}
+  bossHealth: 130
+  bossEntrySpeed: 2

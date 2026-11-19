@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddca828a746e5e149a8e2cbc73ddeaa6, type: 3}
+  m_Name: L2_Wave_01_Vanguard
+  m_EditorClassIdentifier: Assembly-CSharp::WaveDataSO
+  waveName: Level 2 - Round 1 - Armored V Vanguard
+  waveType: 0
+  enemyPrefab: {fileID: 1003089978648642417, guid: e576c85abbe2b404ea2c25a3d3af5f4e, type: 3}
+  enemyCount: 10
+  enemyMaxHealth: 11
+  moveSpeed: 2.6
+  eggDropInterval: 2.7
+  eggDropChance: 0.35
+  formation: 2
+  formationSpacing: 1.3
+  formationTravel: 1.8
+  customFormationOffsets: []
+  diveEveryNthChicken: 3
+  diveInterval: 4.6
+  diveSpeed: 7.6
+  entryWaypointsViewport:
+  - {x: 0.5, y: 1.12}
+  - {x: 0.5, y: 0.94}
+  - {x: 0.5, y: 0.72}
+  asteroidPrefab: {fileID: 1472948895234647240, guid: 8b66e83c976449c4795074bd3a7dad24, type: 3}
+  asteroidCount: 10
+  asteroidHealth: 4
+  asteroidSpawnInterval: 0.75
+  asteroidMoveSpeed: 3.2
+  bossPrefab: {fileID: 0}
+  bossHealth: 500
+  bossEntrySpeed: 2.2

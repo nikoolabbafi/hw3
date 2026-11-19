@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddca828a746e5e149a8e2cbc73ddeaa6, type: 3}
+  m_Name: L3_Wave_10_EmperorGalaxyBoss
+  m_EditorClassIdentifier: Assembly-CSharp::WaveDataSO
+  waveName: Level 3 - Round 10 - Emperor Galaxy Final Boss
+  waveType: 0
+  enemyPrefab: {fileID: 3226279116748585011, guid: 0405553d3023776488dd60eec76d09a5, type: 3}
+  enemyCount: 1
+  enemyMaxHealth: 1
+  moveSpeed: 1
+  eggDropInterval: 3
+  eggDropChance: 0
+  formation: 1
+  formationSpacing: 0.8
+  formationTravel: 0
+  customFormationOffsets: []
+  diveEveryNthChicken: 0
+  diveInterval: 4
+  diveSpeed: 7
+  entryWaypointsViewport:
+  - {x: 0.5, y: 1.1}
+  - {x: 0.5, y: 0.8}
+  asteroidPrefab: {fileID: 1472948895234647240, guid: 8b66e83c976449c4795074bd3a7dad24, type: 3}
+  asteroidCount: 12
+  asteroidHealth: 5
+  asteroidSpawnInterval: 0.65
+  asteroidMoveSpeed: 3.8
+  bossPrefab: {fileID: 7816220907357459458, guid: f17a97e99a829bf428540fa0eaf75c86, type: 3}
+  bossHealth: 500
+  bossEntrySpeed: 2.5

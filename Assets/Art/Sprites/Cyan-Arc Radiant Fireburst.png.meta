@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 1944e4cb5b7c63e4480076b41c6a7706
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1132560416750243309
+    second: Cyan-Arc Radiant Fireburst_0
+  - first:
+      213: -2715592993157315462
+    second: Cyan-Arc Radiant Fireburst_1
+  - first:
+      213: -3148344803687848031
+    second: Cyan-Arc Radiant Fireburst_2
+  - first:
+      213: -5392907214240915840
+    second: Cyan-Arc Radiant Fireburst_3
+  - first:
+      213: -2604766596800786603
+    second: Cyan-Arc Radiant Fireburst_4
+  - first:
+      213: 3885556753265587068
+    second: Cyan-Arc Radiant Fireburst_5
+  - first:
+      213: 2749191497913961692
+    second: Cyan-Arc Radiant Fireburst_6
+  - first:
+      213: -236647405294915132
+    second: Cyan-Arc Radiant Fireburst_7
+  - first:
+      213: -1185334052480696248
+    second: Cyan-Arc Radiant Fireburst_8
+  - first:
+      213: 4950403186427190807
+    second: Cyan-Arc Radiant Fireburst_9
+  - first:
+      213: 986467559211452082
+    second: Cyan-Arc Radiant Fireburst_10
+  - first:
+      213: 7101712032514501760
+    second: Cyan-Arc Radiant Fireburst_11
+  - first:
+      213: -731894094476005597
+    second: Cyan-Arc Radiant Fireburst_12
+  - first:
+      213: 8400357529234755161
+    second: Cyan-Arc Radiant Fireburst_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cyan-Arc Radiant Fireburst_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1254
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded011fc2b9a7bf00800000000000000
+      internalID: 1132560416750243309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan-Arc Radiant Fireburst_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1035
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7481508f86405ad0800000000000000
+      internalID: -2715592993157315462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan-Arc Radiant Fireburst_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1014
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a72db9e415de44d0800000000000000
+      internalID: -3148344803687848031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan-Arc Radiant Fireburst_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 686
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e5784267b8825b0800000000000000
+      internalID: -5392907214240915840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan-Arc Radiant Fireburst_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 6
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fc2e2b4920adbd0800000000000000
+      internalID: -2604766596800786603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan-Arc Radiant Fireburst_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73f301d7454ce530800000000000000
+      internalID: 3885556753265587068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan-Arc Radiant Fireburst_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 63
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc8facf917172620800000000000000
+      internalID: 2749191497913961692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan-Arc Radiant Fireburst_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 63
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1f06e407247bcf0800000000000000
+      internalID: -236647405294915132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan-Arc Radiant Fireburst_8
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 49
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840c6bd95f8dc8fe0800000000000000
+      internalID: -1185334052480696248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan-Arc Radiant Fireburst_9
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 61
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e54fd387d53b440800000000000000
+      internalID: 4950403186427190807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan-Arc Radiant Fireburst_10
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 60
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6ce31c403a0bd00800000000000000
+      internalID: 986467559211452082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan-Arc Radiant Fireburst_11
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 39
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ce42397795e8260800000000000000
+      internalID: 7101712032514501760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan-Arc Radiant Fireburst_12
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f2d85e23ac7d5f0800000000000000
+      internalID: -731894094476005597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan-Arc Radiant Fireburst_13
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 7
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ec0547aa0149470800000000000000
+      internalID: 8400357529234755161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cyan-Arc Radiant Fireburst_0: 1132560416750243309
+      Cyan-Arc Radiant Fireburst_1: -2715592993157315462
+      Cyan-Arc Radiant Fireburst_10: 986467559211452082
+      Cyan-Arc Radiant Fireburst_11: 7101712032514501760
+      Cyan-Arc Radiant Fireburst_12: -731894094476005597
+      Cyan-Arc Radiant Fireburst_13: 8400357529234755161
+      Cyan-Arc Radiant Fireburst_2: -3148344803687848031
+      Cyan-Arc Radiant Fireburst_3: -5392907214240915840
+      Cyan-Arc Radiant Fireburst_4: -2604766596800786603
+      Cyan-Arc Radiant Fireburst_5: 3885556753265587068
+      Cyan-Arc Radiant Fireburst_6: 2749191497913961692
+      Cyan-Arc Radiant Fireburst_7: -236647405294915132
+      Cyan-Arc Radiant Fireburst_8: -1185334052480696248
+      Cyan-Arc Radiant Fireburst_9: 4950403186427190807
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5269a662b876b51419253e5583d57360, type: 3}
+  m_Name: Level_02_Data
+  m_EditorClassIdentifier: Assembly-CSharp::LevelDataSO
+  levelNumber: 2
+  sceneName: Level2
+  backgroundMusic: {fileID: 0}
+  environmentTheme: 1
+  expectedRoundCount: 5
+  rounds:
+  - {fileID: 11400000, guid: b9ad11eee65c278499aee5de19c26a50, type: 2}
+  - {fileID: 11400000, guid: 1512a2766d6cef645829bc23a118f107, type: 2}
+  - {fileID: 11400000, guid: 1a49585539282304cb53b8d85ec41fe2, type: 2}
+  - {fileID: 11400000, guid: 4e64d3cae10e39348a51b05f34274a5f, type: 2}
+  - {fileID: 11400000, guid: d3f8e238c567f0b44afc5bb526c57db7, type: 2}
+  - {fileID: 11400000, guid: 593957c760dd91f49b74a701f699a230, type: 2}
+  - {fileID: 11400000, guid: a52e062145fa44a45bef26d6ef3d22e3, type: 2}
